@@ -6,8 +6,7 @@
 }
 
 ::-webkit-scrollbar {
-    height: 10px;              
-    width: 4px;        
+    height: 5px;                     
     border: 1px solid #d5d5d5;
   }
 
@@ -36,7 +35,7 @@ div {
 
 h1 {
     color: white;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .first {
@@ -71,7 +70,7 @@ h1 {
 }
 
 .second {
-    background: #ffa8B6;
+    background: #194f92;
 }
 
 .third {
